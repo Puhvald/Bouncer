@@ -118,7 +118,7 @@ body {
     height: 33px;
     border: 13px solid #FFFFFF;
     border-radius: 50%;
-    left: 3px;
+    left: 3.3px;
     top: 17px;
     animation: span-pulse 2.5s infinite;
 }
